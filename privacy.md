@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: April 19, 2026**
+**Last updated: April 20, 2026**
 
 This Privacy Policy describes how Cliffhanger ("we", "us", or "the app") collects, uses, and shares information about you when you use the Cliffhanger mobile application.
 
@@ -53,6 +53,7 @@ Cliffhanger uses the following services to operate:
 
 - **Supabase** (database, authentication, file storage): hosts your account, watchlist, friends, and chat data. See [Supabase Privacy Policy](https://supabase.com/privacy).
 - **Expo / Expo Push Service** (app runtime, push notifications): delivers notifications to your device. See [Expo Privacy Policy](https://expo.dev/privacy).
+- **Sentry** (error monitoring): when the app encounters an error, a diagnostic report is sent to Sentry so we can fix the issue. Reports include a stack trace, device model, OS version, app version, and — to help us trace the error to an affected user — your user id and email address. Reports do not include your watchlist, ratings, messages, or other personal content. See [Sentry Privacy Policy](https://sentry.io/privacy/).
 - **TVMaze** (read-only TV metadata): we fetch show details, episode lists, and schedules from TVMaze. No personal information is sent to TVMaze. See [TVMaze Terms](https://www.tvmaze.com/legal).
 - **Giphy** (GIF search, used in chat): when you search for a GIF to send in chat, your search query is sent to Giphy. Your identity is not. See [Giphy Privacy Policy](https://support.giphy.com/hc/en-us/articles/360032872931-Privacy-Policy).
 
