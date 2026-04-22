@@ -2,12 +2,12 @@
 title: Email Confirmed
 ---
 
-# Your account is confirmed
+# You're all set.
 
-You can now open Cliffhanger on your phone and sign in with your email and password.
+Your email has been confirmed. Open **Cliffhanger** on your phone and sign in with your email and password to start tracking shows with friends.
 
-If you don't have Cliffhanger installed yet, you'll need to do that first.
+If you don't have the app installed yet, you'll need to do that first.
 
 ---
 
-[Back to home](./)
+[← Back to home](./)
