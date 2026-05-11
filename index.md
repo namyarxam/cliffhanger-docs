@@ -3,8 +3,8 @@ title: Home
 ---
 
 <div class="hero">
-  <h1 class="hero-tagline">Track shows. Together.</h1>
-  <p class="hero-subtitle">Social TV show tracking — like Letterboxd, but for TV. See what your friends are watching, chat about shows without spoilers, and never lose track of where you left off.</p>
+  <h1 class="hero-tagline">For when you don't know what to watch.</h1>
+  <p class="hero-subtitle">Track your shows and add your friends. The more you both watch, the smarter your queue gets.</p>
 </div>
 
 <div class="phone-showcase">
@@ -12,19 +12,19 @@ title: Home
     <div class="iphone-frame">
       <img src="{{ '/assets/screenshots/my-shows.png' | relative_url }}" alt="My Shows screen">
     </div>
-    <p class="phone-caption">Track every show in one place</p>
+    <p class="phone-caption">Keep track of what you're watching</p>
   </div>
   <div class="phone-card">
     <div class="iphone-frame">
       <img src="{{ '/assets/screenshots/explore.png' | relative_url }}" alt="Explore screen">
     </div>
-    <p class="phone-caption">See what your friends are watching</p>
+    <p class="phone-caption">Discover from your friends' lists</p>
   </div>
   <div class="phone-card">
     <div class="iphone-frame">
       <img src="{{ '/assets/screenshots/chat.png' | relative_url }}" alt="Chat screen">
     </div>
-    <p class="phone-caption">Chat about shows, spoiler-free</p>
+    <p class="phone-caption">Talk shows with your friends</p>
   </div>
 </div>
 
