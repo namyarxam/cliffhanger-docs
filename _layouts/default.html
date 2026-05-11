@@ -214,6 +214,34 @@
       padding: 0 4px;
       line-height: 1.4;
     }
+    /* Secondary 'More features' section — full-bleed bg shift */
+    .secondary-section {
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background: var(--bg-card);
+      padding: 64px 24px 56px;
+      margin: 48px 0 56px;
+    }
+    .secondary-eyebrow {
+      text-align: center;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+      color: var(--text-faint);
+      margin: 0 0 36px;
+    }
+    .secondary-showcase {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 36px;
+      max-width: 500px;
+      margin: 0 auto;
+    }
     @media (max-width: 720px) {
       .phone-showcase {
         grid-template-columns: 1fr;
@@ -221,9 +249,18 @@
         max-width: 280px;
         margin: 40px auto 48px;
       }
+      .secondary-showcase {
+        grid-template-columns: 1fr;
+        gap: 44px;
+        max-width: 280px;
+      }
       .iphone-frame {
         max-width: 240px;
         margin: 0 auto;
+      }
+      .secondary-section {
+        padding: 48px 20px 40px;
+        margin: 32px 0 40px;
       }
     }
     @media (max-width: 640px) {

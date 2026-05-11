@@ -28,7 +28,23 @@ title: Home
   </div>
 </div>
 
----
+<div class="secondary-section">
+  <p class="secondary-eyebrow">More to explore</p>
+  <div class="secondary-showcase">
+    <div class="phone-card">
+      <div class="iphone-frame">
+        <img src="{{ '/assets/screenshots/rate.png' | relative_url }}" alt="Rate a show">
+      </div>
+      <p class="phone-caption">Rate the shows you've finished</p>
+    </div>
+    <div class="phone-card">
+      <div class="iphone-frame">
+        <img src="{{ '/assets/screenshots/episode-detail.png' | relative_url }}" alt="Episode detail">
+      </div>
+      <p class="phone-caption">See who's watching each episode</p>
+    </div>
+  </div>
+</div>
 
 ## Legal
 
